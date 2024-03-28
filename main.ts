@@ -1,1 +1,2 @@
-console.log("hello practicing github")
+console.log("hello practicing github");
+
